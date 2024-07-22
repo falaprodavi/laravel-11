@@ -4,7 +4,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/ThiagolFPereira/setup-docker-laravel-11.git
+git clone https://github.com/falaprodavi/laravel-11.git
 ```
 ```sh
 cd setup-docker-laravel-11
